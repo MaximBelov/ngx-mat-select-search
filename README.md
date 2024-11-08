@@ -56,6 +56,14 @@ Thank you very much to our financial supporters!
 
 <!-- readme: collaborators -start -->
 <table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/MaximBelov">
+            <img src="https://avatars.githubusercontent.com/u/7757752?v=4" width="100;" alt="MaximBelov"/>
+            <br />
+            <sub><b>Maxim Belov</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: collaborators -end -->
 
@@ -231,13 +239,20 @@ Thank you very much to all our community contributors!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MaximBelov">
+            <img src="https://avatars.githubusercontent.com/u/7757752?v=4" width="100;" alt="MaximBelov"/>
+            <br />
+            <sub><b>Maxim Belov</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/melroy89">
             <img src="https://avatars.githubusercontent.com/u/628926?v=4" width="100;" alt="melroy89"/>
             <br />
             <sub><b>Melroy Van Den Berg</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/AhsanAyaz">
             <img src="https://avatars.githubusercontent.com/u/9844254?v=4" width="100;" alt="AhsanAyaz"/>
@@ -272,15 +287,15 @@ Thank you very much to all our community contributors!
             <br />
             <sub><b>Roland Broekema</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/swierzbicki">
             <img src="https://avatars.githubusercontent.com/u/7196324?v=4" width="100;" alt="swierzbicki"/>
             <br />
             <sub><b>Sebastian Wierzbicki </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shenay-aydan">
             <img src="https://avatars.githubusercontent.com/u/38660036?v=4" width="100;" alt="shenay-aydan"/>
@@ -315,15 +330,15 @@ Thank you very much to all our community contributors!
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zpaynter">
             <img src="https://avatars.githubusercontent.com/u/29746771?v=4" width="100;" alt="zpaynter"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/evoltafreak">
             <img src="https://avatars.githubusercontent.com/u/11610680?v=4" width="100;" alt="evoltafreak"/>
